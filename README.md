@@ -21,6 +21,7 @@ The shortcut should run the binary with the Jira URL as parameter, e.g. `open-ji
 
 ## Usage
 
-Press your configured hot-key and enter the Jira card ID and press Enter to open it in your web browser.
+Press your configured hot-key and enter the Jira card ID.
+Press Enter to open it in your web browser.
 
 ![GNOME Custom Shortcut](./doc/img/screenshot.png)
