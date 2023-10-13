@@ -3,7 +3,7 @@ all: build
 
 .PHONY: build
 build:
-	go build ./cmd/open-jira-url
+	go build
 
 install:
-	go install ./cmd/open-jira-url
+	go install
