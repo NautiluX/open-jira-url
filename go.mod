@@ -1,4 +1,4 @@
-module github.com/open-jira-url
+module github.com/NautiluX/open-jira-url
 
 go 1.18
 
